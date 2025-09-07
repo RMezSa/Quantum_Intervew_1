@@ -1,8 +1,5 @@
-# Proyecto ArUco - Simulación de Búsqueda de Marcadores
-
-Este proyecto contiene tres implementaciones diferentes de algoritmos de búsqueda para simular la detección de marcadores ArUco usando Python y la librería Turtle.
-
-## Descripción General
+# ArUco 
+## Descripción 
 
 Los scripts simulan un robot que debe encontrar un marcador ArUco real cuya posición exacta es desconocida, pero se tiene una posición aproximada. El robot implementa diferentes estrategias de búsqueda dependiendo de la complejidad del entorno.
 
